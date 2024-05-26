@@ -1,2 +1,2 @@
 # Tours-and-Travels-Management
- Travel Management System using MVC architecture, Spring framework, and MySQL database
+ Travel Management System (TMS) using MVC architecture, Spring framework, and MySQL database to address the inefficiencies inherent in current booking and payment processes within the travel industry. The TMS will provide users with a seamless platform to book hotels and travel packages of varying tiers based on their preferences and budgetary constraints. Additionally, the system will offer multiple payment options, including credit card, debit card, and UPI, ensuring flexibility and convenience during transactions.
